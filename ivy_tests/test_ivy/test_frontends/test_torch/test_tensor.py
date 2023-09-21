@@ -1570,7 +1570,6 @@ def test_torch_index_fill(
         on_device=on_device,
     )
 
-
 # nansum
 @handle_frontend_method(              							
     class_tree=CLASS_TREE,
